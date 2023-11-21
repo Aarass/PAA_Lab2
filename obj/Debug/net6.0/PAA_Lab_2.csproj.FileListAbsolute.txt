@@ -1,0 +1,15 @@
+C:\Users\proko\source\repos\PAA_Lab_2\bin\Debug\net6.0\PAA_Lab_2.exe
+C:\Users\proko\source\repos\PAA_Lab_2\bin\Debug\net6.0\PAA_Lab_2.deps.json
+C:\Users\proko\source\repos\PAA_Lab_2\bin\Debug\net6.0\PAA_Lab_2.runtimeconfig.json
+C:\Users\proko\source\repos\PAA_Lab_2\bin\Debug\net6.0\PAA_Lab_2.dll
+C:\Users\proko\source\repos\PAA_Lab_2\bin\Debug\net6.0\PAA_Lab_2.pdb
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.csproj.AssemblyReference.cache
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.AssemblyInfoInputs.cache
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.AssemblyInfo.cs
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.dll
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\refint\PAA_Lab_2.dll
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.pdb
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\PAA_Lab_2.genruntimeconfig.cache
+C:\Users\proko\source\repos\PAA_Lab_2\obj\Debug\net6.0\ref\PAA_Lab_2.dll
